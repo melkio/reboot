@@ -232,3 +232,4 @@ _Pvt_Extensions
 # CUSTOM
 [Tt]ools
 sample.fsx
+.vagrant/
